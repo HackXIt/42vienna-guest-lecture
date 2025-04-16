@@ -16,4 +16,4 @@ In this workshop, you will collaborate in teams of approximately 5 students. You
 ### Important Links
 - **Application under test:** [Saucedemo](https://www.saucedemo.com/)
 - **Test Management Tool:** [Hosted QaraTMS Instance](https://qara.42vienna.hackxit.com)
-- **Workshop Repository:** [GitHub Repository](https://github.com/HackXIt/42vienna-guest-lecture)
+- [**Workshop GitHub Repository:**](https://github.com/HackXIt/42vienna-guest-lecture)
